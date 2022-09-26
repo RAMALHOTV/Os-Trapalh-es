@@ -1,420 +1,447 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E01
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62042.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E02
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62043.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E03
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E04
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62045.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E05
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E06
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E07
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E08
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E09
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E10
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E11
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E12
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E13
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62054.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E14" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E14
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62055.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E15" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E15
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62056.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E16" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E16
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E17" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E17
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62058.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E18" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E18
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E19" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E19
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E20" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E20
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62061.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E21" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E21
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62062.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E22" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E22
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E23" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E23
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62064.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E24" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E24
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62065.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E25" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E25
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62066.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E26" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E26
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E27" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E27
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E28" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E28
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E29" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E29
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62070.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E30" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E30
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62071.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E31" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E31
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E32" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E32
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62073.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E33" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E33
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E34" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E34
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E35" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E35
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62076.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E36" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E36
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E37" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E37
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E38" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E38
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62079.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E39" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E39
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E40" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E40
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E41" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E41
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E42" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E42
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E43" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E43
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62084.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E44" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E44
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62085.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E45" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E45
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E46" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E46
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E47" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E47
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62088.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E48" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E48
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62089.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E49" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E49
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E50" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E50
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62091.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E51" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E51
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62092.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E52" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E52
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62093.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E53" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E53
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62094.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E54" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E54
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E55" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E55
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62096.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E56" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E56
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62097.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E57" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E57
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62098.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E58" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E58
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E59" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E59
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E60" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E60
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E61" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E61
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E62" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E62
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E63" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E63
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E64" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E64
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E65" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E65
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E66" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E66
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E67" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E67
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62108.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E68" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E68
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62109.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E69" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E69
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62110.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E70" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E70
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62111.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E71" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E71
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E72" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E72
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E73" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E73
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62114.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E74" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E74
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E75" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E75
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E76" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E76
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E77" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E77
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62118.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E78" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E78
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62119.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E79" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E79
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62120.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E80" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E80
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E81" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E81
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E82" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E82
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E83" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E83
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E84" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E84
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E85" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E85
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E86" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E86
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E87" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E87
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62128.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E88" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E88
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E89" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E89
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62130.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E90" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E90
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62131.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E91" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E91
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E92" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E92
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62133.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E93" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E93
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62134.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E94" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E94
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62135.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E95" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E95
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62136.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E96" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E96
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62137.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E97" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E97
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E98" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E98
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E99" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E99
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62140.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E100" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E100
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E101" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E101
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E102" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E102
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E103" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E103
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E104" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E104
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E105" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E105
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E106" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E106
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E107" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E107
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E108" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E108
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E109" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E109
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E110" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E110
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62151.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E111" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E111
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62152.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E112" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E112
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E113" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E113
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E114" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E114
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E115" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E115
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E116" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E116
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E117" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E117
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62158.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E118" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E118
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62159.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E119" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E119
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62160.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E120" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E120
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E121" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E121
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62162.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E122" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E122
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E123" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E123
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E124" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E124
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62165.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E125" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E125
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E126" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E126
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E127" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E127
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62168.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E128" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E128
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62169.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E129" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E129
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62170.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E130" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E130
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E131" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E131
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62172.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E132" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E132
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62173.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E133" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E133
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62174.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E134" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E134
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62175.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E135" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E135
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E136" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E136
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62177.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E137" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E137
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E138" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E138
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62179.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E139" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E139
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62180.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E140" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E140
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62181.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E141" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E141
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62182.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E142" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E142
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62183.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E143" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E143
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62184.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E144" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E144
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62185.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E145" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E145
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62186.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E146" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E146
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62187.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E147" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E147
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E148" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E148
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62189.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E149" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E149
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62190.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E150" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E150
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E151" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E151
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E152" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E152
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62193.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E153" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E153
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E154" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E154
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E155" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E155
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E156" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E156
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E157" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E157
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E158" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E158
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E159" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E159
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E160" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E160
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E161" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E161
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E162" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E162
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E163" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E163
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E164" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E164
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E165" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E165
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E166" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E166
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E167" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E167
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E168" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E168
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E169" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E169
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E170" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E170
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62211.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E171" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E171
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62212.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E172" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E172
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62213.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E173" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E173
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E174" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E174
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E175" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E175
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E176" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E176
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E177" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E177
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E178" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E178
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E179" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E179
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E180" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E180
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E181" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E181
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E182" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E182
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E183" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E183
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E184" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E184
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E185" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E185
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E186" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E186
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E187" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E187
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E188" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E188
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E189" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E189
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E190" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E190
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E191" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E191
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E192" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E192
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E193" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E193
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E194" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E194
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E195" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E195
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E196" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E196
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E197" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E197
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E198" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E198
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62239.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E199" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E199
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E200" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E200
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62241.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E201" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E201
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E202" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E202
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E203" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E203
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E204" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E204
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E205" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E205
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E206" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E206
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E207" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E207
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E208" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E208
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Roque Santeiro S01 E209" tvg-logo="https://image.tmdb.org/t/p/w300/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg" group-title="Novelas",Roque Santeiro S01 E209
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62250.mp4
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E" tvg-logo="http://45.170.92.6:8080/icones/ae.png" group-title="FILMES&SERIES",A&E
+http://a5telecom.distv.net:8080/6188/6188/630
+#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="http://45.170.92.6:8080/icones/agrobrasil.png" group-title="PARABOLICA",AGRO BRASIL
+http://a5telecom.distv.net:8080/6188/6188/427
+#EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL" tvg-logo="http://45.170.92.6:8080/icones/agrocanal.png" group-title="PARABOLICA",AGRO CANAL
+http://a5telecom.distv.net:8080/6188/6188/428
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="http://45.170.92.6:8080/icones/amc.png" group-title="FILMES&SERIES",AMC
+http://a5telecom.distv.net:8080/6188/6188/631
+#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://45.170.92.6:8080/icones/animalplanet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET
+http://a5telecom.distv.net:8080/6188/6188/597
+#EXTINF:-1 tvg-id="ARTE1" tvg-name="ARTE 1" tvg-logo="http://45.170.92.6:8080/icones/arte1.png" group-title="ENTRETENIMENTO",ARTE 1
+http://a5telecom.distv.net:8080/6188/6188/598
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://45.170.92.6:8080/icones/axn.png" group-title="FILMES&SERIES",AXN
+http://a5telecom.distv.net:8080/6188/6188/632
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV" tvg-logo="http://45.170.92.6:8080/icones/babytv.png" group-title="KIDS",BABY TV
+http://a5telecom.distv.net:8080/6188/6188/582
+#EXTINF:-1 tvg-id="" tvg-name="BAND CARIRI" tvg-logo="http://45.170.92.6:8080/icones/band.png" group-title="CEARA",BAND CARIRI
+http://a5telecom.distv.net:8080/6188/6188/402
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BAND NEWS" tvg-logo="http://45.170.92.6:8080/icones/bandnews.png" group-title="NEWS",BAND NEWS
+http://a5telecom.distv.net:8080/6188/6188/629
+#EXTINF:-1 tvg-id="" tvg-name="BAND RN" tvg-logo="http://45.170.92.6:8080/icones/band.png" group-title="RIO-GRANDE-NORTE",BAND RN
+http://a5telecom.distv.net:8080/6188/6188/381
+#EXTINF:-1 tvg-id="" tvg-name="BAND SAT" tvg-logo="http://45.170.92.6:8080/icones/band.png" group-title="PARABOLICA",BAND SAT
+http://a5telecom.distv.net:8080/6188/6188/502
+#EXTINF:-1 tvg-id="BANDSPORTS" tvg-name="BAND SPORTS" tvg-logo="http://45.170.92.6:8080/icones/bandsports.png" group-title="SPORTES",BAND SPORTS
+http://a5telecom.distv.net:8080/6188/6188/532
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://45.170.92.6:8080/icones/bis.png" group-title="ENTRETENIMENTO",BIS
+http://a5telecom.distv.net:8080/6188/6188/599
+#EXTINF:-1 tvg-id="" tvg-name="CABUGI(GLOBO)" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="RIO-GRANDE-NORTE",CABUGI(GLOBO)
+http://a5telecom.distv.net:8080/6188/6188/382
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="http://45.170.92.6:8080/icones/canaldoboi.png" group-title="PARABOLICA",CANAL DO BOI
+http://a5telecom.distv.net:8080/6188/6188/431
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="http://45.170.92.6:8080/icones/canalrural.png" group-title="PARABOLICA",CANAL RURAL
+http://a5telecom.distv.net:8080/6188/6188/433
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SAUDE" tvg-logo="http://45.170.92.6:8080/icones/canalsaude.png" group-title="PARABOLICA",CANAL SAUDE
+http://a5telecom.distv.net:8080/6188/6188/452
+#EXTINF:-1 tvg-id="SONY" tvg-name="CANAL SONY" tvg-logo="http://45.170.92.6:8080/icones/sonychannel.png" group-title="FILMES&SERIES",CANAL SONY
+http://a5telecom.distv.net:8080/6188/6188/633
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA" tvg-logo="http://45.170.92.6:8080/icones/tvcancaonovaceara.png" group-title="PARABOLICA",CANCAO NOVA
+http://a5telecom.distv.net:8080/6188/6188/391
+#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="CARTOON NETWORK" tvg-logo="http://45.170.92.6:8080/icones/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK
+http://a5telecom.distv.net:8080/6188/6188/584
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="CARTOONITO" tvg-logo="http://45.170.92.6:8080/icones/cartoonito.png" group-title="KIDS",CARTOONITO
+http://a5telecom.distv.net:8080/6188/6188/583
+#EXTINF:-1 tvg-id="CHEFTV" tvg-name="CHEFTV" tvg-logo="http://45.170.92.6:8080/icones/cheftv.png" group-title="ENTRETENIMENTO",CHEFTV
+http://a5telecom.distv.net:8080/6188/6188/666
+#EXTINF:-1 tvg-id="" tvg-name="CINE BRASIL" tvg-logo="http://45.170.92.6:8080/icones/cinebrasiltv.png" group-title="PARABOLICA",CINE BRASIL
+http://a5telecom.distv.net:8080/6188/6188/434
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 01
+http://a5telecom.distv.net:8080/6188/6188/522
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 02
+http://a5telecom.distv.net:8080/6188/6188/523
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 03
+http://a5telecom.distv.net:8080/6188/6188/524
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 04
+http://a5telecom.distv.net:8080/6188/6188/525
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 05
+http://a5telecom.distv.net:8080/6188/6188/526
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 06
+http://a5telecom.distv.net:8080/6188/6188/527
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 07
+http://a5telecom.distv.net:8080/6188/6188/528
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 08
+http://a5telecom.distv.net:8080/6188/6188/529
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 09
+http://a5telecom.distv.net:8080/6188/6188/530
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 10
+http://a5telecom.distv.net:8080/6188/6188/531
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="http://45.170.92.6:8080/icones/cinemax.png" group-title="FILMES&SERIES",CINEMAX
+http://a5telecom.distv.net:8080/6188/6188/634
+#EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="CNN BRASIL" tvg-logo="http://45.170.92.6:8080/icones/cnnbrasil.png" group-title="NEWS",CNN BRASIL
+http://a5telecom.distv.net:8080/6188/6188/626
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN INTERNACIONAL" tvg-logo="http://45.170.92.6:8080/icones/cnninternacional.png" group-title="NEWS",CNN INTERNACIONAL
+http://a5telecom.distv.net:8080/6188/6188/668
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE" tvg-logo="http://45.170.92.6:8080/icones/combate.png" group-title="SPORTES",COMBATE
+http://a5telecom.distv.net:8080/6188/6188/533
+#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="http://45.170.92.6:8080/icones/comedycentral.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL
+http://a5telecom.distv.net:8080/6188/6188/601
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1" tvg-logo="http://45.170.92.6:8080/icones/conmebol.png" group-title="SPORTES",CONMEBOL 1
+http://a5telecom.distv.net:8080/6188/6188/551
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2" tvg-logo="http://45.170.92.6:8080/icones/conmebol.png" group-title="SPORTES",CONMEBOL 2
+http://a5telecom.distv.net:8080/6188/6188/552
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3" tvg-logo="http://45.170.92.6:8080/icones/conmebol.png" group-title="SPORTES",CONMEBOL 3
+http://a5telecom.distv.net:8080/6188/6188/553
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4" tvg-logo="http://45.170.92.6:8080/icones/conmebol.png" group-title="SPORTES",CONMEBOL 4
+http://a5telecom.distv.net:8080/6188/6188/554
+#EXTINF:-1 tvg-id="CURTA" tvg-name="CURTA!" tvg-logo="http://45.170.92.6:8080/icones/curta.png" group-title="ENTRETENIMENTO",CURTA!
+http://a5telecom.distv.net:8080/6188/6188/600
+#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://45.170.92.6:8080/icones/dazn.png" group-title="SPORTES",DAZN
+http://a5telecom.distv.net:8080/6188/6188/534
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="http://45.170.92.6:8080/icones/dazn.png" group-title="SPORTES",DAZN 3
+http://a5telecom.distv.net:8080/6188/6188/684
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="http://45.170.92.6:8080/icones/dazn.png" group-title="SPORTES",DAZN 4
+http://a5telecom.distv.net:8080/6188/6188/683
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5" tvg-logo="http://45.170.92.6:8080/icones/dazn.png" group-title="SPORTES",DAZN 5
+http://a5telecom.distv.net:8080/6188/6188/682
+#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://45.170.92.6:8080/icones/discoverychannel.png" group-title="ENTRETENIMENTO",DISCOVERY CHANNEL
+http://a5telecom.distv.net:8080/6188/6188/602
+#EXTINF:-1 tvg-id="DISCOVERYHH" tvg-name="DISCOVERY H & HEALTH" tvg-logo="http://45.170.92.6:8080/icones/discoveryhomehealth.png" group-title="ENTRETENIMENTO",DISCOVERY H & HEALTH
+http://a5telecom.distv.net:8080/6188/6188/603
+#EXTINF:-1 tvg-id="LIV" tvg-name="DISCOVERY ID" tvg-logo="http://45.170.92.6:8080/icones/discoveryid.png" group-title="ENTRETENIMENTO",DISCOVERY ID
+http://a5telecom.distv.net:8080/6188/6188/604
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="DISCOVERY KIDS" tvg-logo="http://45.170.92.6:8080/icones/discoverykids.png" group-title="KIDS",DISCOVERY KIDS
+http://a5telecom.distv.net:8080/6188/6188/585
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://45.170.92.6:8080/icones/discoveryscience.png" group-title="ENTRETENIMENTO",DISCOVERY SCIENCE
+http://a5telecom.distv.net:8080/6188/6188/605
+#EXTINF:-1 tvg-id="DISCOVERYTHEATERHD" tvg-name="DISCOVERY THEATER" tvg-logo="http://45.170.92.6:8080/icones/discoverytheater.png" group-title="ENTRETENIMENTO",DISCOVERY THEATER
+http://a5telecom.distv.net:8080/6188/6188/606
+#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="DISCOVERY TURBO" tvg-logo="http://45.170.92.6:8080/icones/discoveryturbo.png" group-title="ENTRETENIMENTO",DISCOVERY TURBO
+http://a5telecom.distv.net:8080/6188/6188/607
+#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="DISCOVERY WORLD" tvg-logo="http://45.170.92.6:8080/icones/discoveryworld.png" group-title="ENTRETENIMENTO",DISCOVERY WORLD
+http://a5telecom.distv.net:8080/6188/6188/608
+#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="http://45.170.92.6:8080/icones/disneychannel.png" group-title="KIDS",DISNEY CHANNEL
+http://a5telecom.distv.net:8080/6188/6188/586
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV" tvg-logo="http://45.170.92.6:8080/icones/dogtv.png" group-title="ENTRETENIMENTO",DOG TV
+http://a5telecom.distv.net:8080/6188/6188/674
+#EXTINF:-1 tvg-id="E" tvg-name="E!" tvg-logo="http://45.170.92.6:8080/icones/e.png" group-title="ENTRETENIMENTO",E!
+http://a5telecom.distv.net:8080/6188/6188/609
+#EXTINF:-1 tvg-id="" tvg-name="EDUCACAO" tvg-logo="http://45.170.92.6:8080/icones/educacao.png" group-title="PARABOLICA",EDUCACAO
+http://a5telecom.distv.net:8080/6188/6188/453
+#EXTINF:-1 tvg-id="ESPNBRASIL" tvg-name="ESPN" tvg-logo="http://45.170.92.6:8080/icones/espn.png" group-title="SPORTES",ESPN
+http://a5telecom.distv.net:8080/6188/6188/537
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 2" tvg-logo="http://45.170.92.6:8080/icones/espn2.png" group-title="SPORTES",ESPN 2
+http://a5telecom.distv.net:8080/6188/6188/535
+#EXTINF:-1 tvg-id="ESPN 2 FHD" tvg-name="ESPN 3" tvg-logo="http://45.170.92.6:8080/icones/espn3.png" group-title="SPORTES",ESPN 3
+http://a5telecom.distv.net:8080/6188/6188/536
+#EXTINF:-1 tvg-id="FOXSPORTS" tvg-name="ESPN 4" tvg-logo="http://45.170.92.6:8080/icones/espn4.png" group-title="SPORTES",ESPN 4
+http://a5telecom.distv.net:8080/6188/6188/539
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA" tvg-logo="http://45.170.92.6:8080/icones/espnextra.png" group-title="SPORTES",ESPN EXTRA
+http://a5telecom.distv.net:8080/6188/6188/538
+#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="http://45.170.92.6:8080/icones/euronews.png" group-title="NEWS",EURO NEWS
+http://a5telecom.distv.net:8080/6188/6188/435
+#EXTINF:-1 tvg-id="FASHIONTVBRAZIL" tvg-name="FASHIONTV" tvg-logo="http://45.170.92.6:8080/icones/fashiontv.png" group-title="ENTRETENIMENTO",FASHIONTV
+http://a5telecom.distv.net:8080/6188/6188/687
+#EXTINF:-1 tvg-id="film-arts" tvg-name="FILM ARTS" tvg-logo="http://45.170.92.6:8080/icones/filmeseartes.png" group-title="ENTRETENIMENTO",FILM ARTS
+http://a5telecom.distv.net:8080/6188/6188/610
+#EXTINF:-1 tvg-id="FISHTV" tvg-name="FISHTV" tvg-logo="http://45.170.92.6:8080/icones/fishtv.png" group-title="ENTRETENIMENTO",FISHTV
+http://a5telecom.distv.net:8080/6188/6188/672
+#EXTINF:-1 tvg-id="FOODNETWORKHDBRASIL" tvg-name="FOOD NETWORK" tvg-logo="http://45.170.92.6:8080/icones/foodnetwork.png" group-title="ENTRETENIMENTO",FOOD NETWORK
+http://a5telecom.distv.net:8080/6188/6188/611
+#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-name="FOX SPORTS 2" tvg-logo="http://45.170.92.6:8080/icones/foxsports2.png" group-title="SPORTES",FOX SPORTS 2
+http://a5telecom.distv.net:8080/6188/6188/540
+#EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOXNEWS" tvg-logo="http://45.170.92.6:8080/icones/foxnews.png" group-title="NEWS",FOXNEWS
+http://a5telecom.distv.net:8080/6188/6188/669
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://45.170.92.6:8080/icones/fx.png" group-title="FILMES&SERIES",FX
+http://a5telecom.distv.net:8080/6188/6188/639
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO BRASILIA
+http://a5telecom.distv.net:8080/6188/6188/475
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO FLORIANOPOLIS
+http://a5telecom.distv.net:8080/6188/6188/476
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS" tvg-logo="http://45.170.92.6:8080/icones/globominas.png" group-title="GLOBOS&RECORD",GLOBO MINAS
+http://a5telecom.distv.net:8080/6188/6188/477
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO NATAL
+http://a5telecom.distv.net:8080/6188/6188/478
+#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBO NEWS" tvg-logo="http://45.170.92.6:8080/icones/globonews.png" group-title="NEWS",GLOBO NEWS
+http://a5telecom.distv.net:8080/6188/6188/627
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE" tvg-logo="http://45.170.92.6:8080/icones/globonordeste.png" group-title="GLOBOS&RECORD",GLOBO NORDESTE
+http://a5telecom.distv.net:8080/6188/6188/479
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO REDE AMAZONICA
+http://a5telecom.distv.net:8080/6188/6188/482
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RIO" tvg-logo="http://45.170.92.6:8080/icones/globorj.png" group-title="GLOBOS&RECORD",GLOBO RIO
+http://a5telecom.distv.net:8080/6188/6188/480
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO RIO GRANDE DO SUL
+http://a5telecom.distv.net:8080/6188/6188/481
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO RPC CURITIBA
+http://a5telecom.distv.net:8080/6188/6188/483
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO SP
+http://a5telecom.distv.net:8080/6188/6188/484
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO TV ANHANGUERA GOIANIA
+http://a5telecom.distv.net:8080/6188/6188/485
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO TV BAHIA
+http://a5telecom.distv.net:8080/6188/6188/486
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO TV LIBERAL BELEM
+http://a5telecom.distv.net:8080/6188/6188/487
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE" tvg-logo="http://45.170.92.6:8080/icones/globotvmirante.png" group-title="GLOBOS&RECORD",GLOBO TV MIRANTE
+http://a5telecom.distv.net:8080/6188/6188/488
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="http://45.170.92.6:8080/icones/gloob.png" group-title="KIDS",GLOOB
+http://a5telecom.distv.net:8080/6188/6188/589
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="http://45.170.92.6:8080/icones/gloobinho.png" group-title="KIDS",GLOOBINHO
+http://a5telecom.distv.net:8080/6188/6188/590
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://45.170.92.6:8080/icones/gnt.png" group-title="ENTRETENIMENTO",GNT
+http://a5telecom.distv.net:8080/6188/6188/612
+#EXTINF:-1 tvg-id="HISTORY2" tvg-name="H2" tvg-logo="http://45.170.92.6:8080/icones/h2.png" group-title="ENTRETENIMENTO",H2
+http://a5telecom.distv.net:8080/6188/6188/615
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://45.170.92.6:8080/icones/hbo.png" group-title="FILMES&SERIES",HBO
+http://a5telecom.distv.net:8080/6188/6188/640
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="http://45.170.92.6:8080/icones/hbo2.png" group-title="FILMES&SERIES",HBO 2
+http://a5telecom.distv.net:8080/6188/6188/641
+#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="http://45.170.92.6:8080/icones/hbofamily.png" group-title="FILMES&SERIES",HBO FAMILY
+http://a5telecom.distv.net:8080/6188/6188/642
+#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="HBO MUNDI" tvg-logo="http://45.170.92.6:8080/icones/hbomundi.png" group-title="FILMES&SERIES",HBO MUNDI
+http://a5telecom.distv.net:8080/6188/6188/643
+#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="http://45.170.92.6:8080/icones/hboplus.png" group-title="FILMES&SERIES",HBO PLUS
+http://a5telecom.distv.net:8080/6188/6188/644
+#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP" tvg-logo="http://45.170.92.6:8080/icones/hbopop.png" group-title="FILMES&SERIES",HBO POP
+http://a5telecom.distv.net:8080/6188/6188/645
+#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://45.170.92.6:8080/icones/hbosignature.png" group-title="FILMES&SERIES",HBO SIGNATURE
+http://a5telecom.distv.net:8080/6188/6188/646
+#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME" tvg-logo="http://45.170.92.6:8080/icones/hboextreme.png" group-title="FILMES&SERIES",HBO XTREME
+http://a5telecom.distv.net:8080/6188/6188/647
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="http://45.170.92.6:8080/icones/hgtv.png" group-title="ENTRETENIMENTO",HGTV
+http://a5telecom.distv.net:8080/6188/6188/613
+#EXTINF:-1 tvg-id="HISTORYCHANNEL" tvg-name="HISTORY" tvg-logo="http://45.170.92.6:8080/icones/historychannel.png" group-title="ENTRETENIMENTO",HISTORY
+http://a5telecom.distv.net:8080/6188/6188/614
+#EXTINF:-1 tvg-id="" tvg-name="ID TV" tvg-logo="http://45.170.92.6:8080/icones/idealtv.png" group-title="PARABOLICA",ID TV
+http://a5telecom.distv.net:8080/6188/6188/365
+#EXTINF:-1 tvg-id="" tvg-name="INTERTV GRANDE MINAS" tvg-logo="http://45.170.92.6:8080/icones/globominas.png" group-title="PARABOLICA",INTERTV GRANDE MINAS
+http://a5telecom.distv.net:8080/6188/6188/455
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS" tvg-logo="http://45.170.92.6:8080/icones/jovempannews.png" group-title="NEWS",JOVEM PAN NEWS
+http://a5telecom.distv.net:8080/6188/6188/436
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="http://45.170.92.6:8080/icones/lifetime.png" group-title="FILMES&SERIES",LIFETIME
+http://a5telecom.distv.net:8080/6188/6188/648
+#EXTINF:-1 tvg-id="" tvg-name="LIKE" tvg-logo="http://45.170.92.6:8080/icones/like.png" group-title="FILMES&SERIES",LIKE
+http://a5telecom.distv.net:8080/6188/6188/685
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="http://45.170.92.6:8080/icones/lovenature.png" group-title="ENTRETENIMENTO",LOVE NATURE
+http://a5telecom.distv.net:8080/6188/6188/616
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="http://45.170.92.6:8080/icones/megapix.png" group-title="FILMES&SERIES",MEGAPIX
+http://a5telecom.distv.net:8080/6188/6188/649
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://45.170.92.6:8080/icones/mtv.png" group-title="ENTRETENIMENTO",MTV
+http://a5telecom.distv.net:8080/6188/6188/617
+#EXTINF:-1 tvg-id="MTV LIVE HD [Alter]" tvg-name="MTV LIVE" tvg-logo="http://45.170.92.6:8080/icones/mtvlive.png" group-title="ENTRETENIMENTO",MTV LIVE
+http://a5telecom.distv.net:8080/6188/6188/618
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="http://45.170.92.6:8080/icones/multishow.png" group-title="ENTRETENIMENTO",MULTISHOW
+http://a5telecom.distv.net:8080/6188/6188/619
+#EXTINF:-1 tvg-id="MUSICBOXBRASIL" tvg-name="MUSIC BOX" tvg-logo="http://45.170.92.6:8080/icones/musicboxbrazil.png" group-title="ENTRETENIMENTO",MUSIC BOX
+http://a5telecom.distv.net:8080/6188/6188/671
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="NAT GEO" tvg-logo="http://45.170.92.6:8080/icones/natgeo.png" group-title="ENTRETENIMENTO",NAT GEO
+http://a5telecom.distv.net:8080/6188/6188/620
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHICWILD" tvg-name="NAT GEO WILD" tvg-logo="http://45.170.92.6:8080/icones/natgeowild.png" group-title="ENTRETENIMENTO",NAT GEO WILD
+http://a5telecom.distv.net:8080/6188/6188/621
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICK" tvg-logo="http://45.170.92.6:8080/icones/nick.png" group-title="KIDS",NICK
+http://a5telecom.distv.net:8080/6188/6188/592
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="NICK JR" tvg-logo="http://45.170.92.6:8080/icones/nickjr.png" group-title="KIDS",NICK JR
+http://a5telecom.distv.net:8080/6188/6188/593
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="http://45.170.92.6:8080/icones/off.png" group-title="ENTRETENIMENTO",OFF
+http://a5telecom.distv.net:8080/6188/6188/622
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="http://45.170.92.6:8080/icones/paramount.png" group-title="FILMES&SERIES",PARAMOUNT
+http://a5telecom.distv.net:8080/6188/6188/650
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOP" tvg-logo="http://45.170.92.6:8080/icones/polishop.png" group-title="PARABOLICA",POLISHOP
+http://a5telecom.distv.net:8080/6188/6188/439
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://45.170.92.6:8080/icones/premiere2.png" group-title="SPORTES",PREMIERE 2
+http://a5telecom.distv.net:8080/6188/6188/542
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://45.170.92.6:8080/icones/premiere3.png" group-title="SPORTES",PREMIERE 3
+http://a5telecom.distv.net:8080/6188/6188/543
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="http://45.170.92.6:8080/icones/premeire4.png" group-title="SPORTES",PREMIERE 4
+http://a5telecom.distv.net:8080/6188/6188/544
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="http://45.170.92.6:8080/icones/premeire5.png" group-title="SPORTES",PREMIERE 5
+http://a5telecom.distv.net:8080/6188/6188/545
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="http://45.170.92.6:8080/icones/premiere6.png" group-title="SPORTES",PREMIERE 6
+http://a5telecom.distv.net:8080/6188/6188/546
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="http://45.170.92.6:8080/icones/premiere7.png" group-title="SPORTES",PREMIERE 7
+http://a5telecom.distv.net:8080/6188/6188/547
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="http://45.170.92.6:8080/icones/premiereclubes.png" group-title="SPORTES",PREMIERE CLUBES
+http://a5telecom.distv.net:8080/6188/6188/541
+#EXTINF:-1 tvg-id="PRIMEBOXBRAZIL" tvg-name="PRIME BOX" tvg-logo="http://45.170.92.6:8080/icones/primeboxbrazil.png" group-title="ENTRETENIMENTO",PRIME BOX
+http://a5telecom.distv.net:8080/6188/6188/670
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD BAHIA
+http://a5telecom.distv.net:8080/6188/6188/490
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BELEM" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD BELEM
+http://a5telecom.distv.net:8080/6188/6188/491
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD BRASILIA
+http://a5telecom.distv.net:8080/6188/6188/492
+#EXTINF:-1 tvg-id="" tvg-name="RECORD FEIRA SANTA" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="BAHIA",RECORD FEIRA SANTA
+http://a5telecom.distv.net:8080/6188/6188/390
+#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD GOIAS
+http://a5telecom.distv.net:8080/6188/6188/493
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD MANAUS
+http://a5telecom.distv.net:8080/6188/6188/494
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD MINAS
+http://a5telecom.distv.net:8080/6188/6188/495
+#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="RECORD NEWS" tvg-logo="http://45.170.92.6:8080/icones/recordnews.png" group-title="NEWS",RECORD NEWS
+http://a5telecom.distv.net:8080/6188/6188/383
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD RIO
+http://a5telecom.distv.net:8080/6188/6188/497
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD RS
+http://a5telecom.distv.net:8080/6188/6188/498
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP" tvg-logo="http://45.170.92.6:8080/icones/reordtvsp.png" group-title="GLOBOS&RECORD",RECORD SP
+http://a5telecom.distv.net:8080/6188/6188/499
+#EXTINF:-1 tvg-id="" tvg-name="REDE CNT" tvg-logo="http://45.170.92.6:8080/icones/redecnt.png" group-title="PARABOLICA",REDE CNT
+http://a5telecom.distv.net:8080/6188/6188/380
+#EXTINF:-1 tvg-id="" tvg-name="REDE FAMILIA" tvg-logo="http://45.170.92.6:8080/icones/redefamilia.png" group-title="PARABOLICA",REDE FAMILIA
+http://a5telecom.distv.net:8080/6188/6188/440
+#EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS" tvg-logo="http://45.170.92.6:8080/icones/redegenesis.png" group-title="PARABOLICA",REDE GENESIS
+http://a5telecom.distv.net:8080/6188/6188/441
+#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL" tvg-logo="http://45.170.92.6:8080/icones/redegospel.png" group-title="PARABOLICA",REDE GOSPEL
+http://a5telecom.distv.net:8080/6188/6188/442
+#EXTINF:-1 tvg-id="" tvg-name="REDE SECULO21" tvg-logo="http://45.170.92.6:8080/icones/redeseculo.png" group-title="PARABOLICA",REDE SECULO21
+http://a5telecom.distv.net:8080/6188/6188/444
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://45.170.92.6:8080/icones/redetv.png" group-title="PARABOLICA",REDE TV
+http://a5telecom.distv.net:8080/6188/6188/392
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://45.170.92.6:8080/icones/redevida.png" group-title="PARABOLICA",REDE VIDA
+http://a5telecom.distv.net:8080/6188/6188/418
+#EXTINF:-1 tvg-id="RIT" tvg-name="RIT TV" tvg-logo="http://45.170.92.6:8080/icones/rittv.png" group-title="PERNAMBUCO",RIT TV
+http://a5telecom.distv.net:8080/6188/6188/363
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://45.170.92.6:8080/icones/sbt.png" group-title="PARABOLICA",SBT
+http://a5telecom.distv.net:8080/6188/6188/384
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN" tvg-logo="http://45.170.92.6:8080/icones/smithsonian.png" group-title="ENTRETENIMENTO",SMITHSONIAN
+http://a5telecom.distv.net:8080/6188/6188/623
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="http://45.170.92.6:8080/icones/space.png" group-title="FILMES&SERIES",SPACE
+http://a5telecom.distv.net:8080/6188/6188/651
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV" tvg-logo="http://45.170.92.6:8080/icones/sportv.png" group-title="SPORTES",SPORTV
+http://a5telecom.distv.net:8080/6188/6188/548
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2" tvg-logo="http://45.170.92.6:8080/icones/sportv2.png" group-title="SPORTES",SPORTV 2
+http://a5telecom.distv.net:8080/6188/6188/549
+#EXTINF:-1 tvg-id="8abe450e58e387ce9181954d2612ca13" tvg-name="SPORTV 3" tvg-logo="http://45.170.92.6:8080/icones/sportv3.png" group-title="SPORTES",SPORTV 3
+http://a5telecom.distv.net:8080/6188/6188/550
+#EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR CHANNEL" tvg-logo="http://45.170.92.6:8080/icones/starchannel.png" group-title="FILMES&SERIES",STAR CHANNEL
+http://a5telecom.distv.net:8080/6188/6188/675
+#EXTINF:-1 tvg-id="STARLIFE" tvg-name="STAR LIFE" tvg-logo="http://45.170.92.6:8080/icones/starlife.png" group-title="FILMES&SERIES",STAR LIFE
+http://a5telecom.distv.net:8080/6188/6188/678
+#EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://45.170.92.6:8080/icones/studiouniversal.png" group-title="FILMES&SERIES",STUDIO UNIVERSAL
+http://a5telecom.distv.net:8080/6188/6188/652
+#EXTINF:-1 tvg-id="" tvg-name="SUBAE" tvg-logo="http://45.170.92.6:8080/icones/redeglobobahia.png" group-title="BAHIA",SUBAE
+http://a5telecom.distv.net:8080/6188/6188/389
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="http://45.170.92.6:8080/icones/syfy.png" group-title="FILMES&SERIES",SYFY
+http://a5telecom.distv.net:8080/6188/6188/653
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://45.170.92.6:8080/icones/tbs.png" group-title="FILMES&SERIES",TBS
+http://a5telecom.distv.net:8080/6188/6188/654
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://45.170.92.6:8080/icones/tcm.png" group-title="FILMES&SERIES",TCM
+http://a5telecom.distv.net:8080/6188/6188/686
+#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TELECINE ACTION" tvg-logo="http://45.170.92.6:8080/icones/tcaction.png" group-title="FILMES&SERIES",TELECINE ACTION
+http://a5telecom.distv.net:8080/6188/6188/655
+#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="TELECINE CULT" tvg-logo="http://45.170.92.6:8080/icones/tccult.png" group-title="FILMES&SERIES",TELECINE CULT
+http://a5telecom.distv.net:8080/6188/6188/656
+#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TELECINE FUN" tvg-logo="http://45.170.92.6:8080/icones/tcfun.png" group-title="FILMES&SERIES",TELECINE FUN
+http://a5telecom.distv.net:8080/6188/6188/657
+#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="http://45.170.92.6:8080/icones/tcpipoca.png" group-title="FILMES&SERIES",TELECINE PIPOCA
+http://a5telecom.distv.net:8080/6188/6188/658
+#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://45.170.92.6:8080/icones/tcpremium.png" group-title="FILMES&SERIES",TELECINE PREMIUM
+http://a5telecom.distv.net:8080/6188/6188/659
+#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://45.170.92.6:8080/icones/tctouch.png" group-title="FILMES&SERIES",TELECINE TOUCH
+http://a5telecom.distv.net:8080/6188/6188/660
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://45.170.92.6:8080/icones/tlc.png" group-title="FILMES&SERIES",TLC
+http://a5telecom.distv.net:8080/6188/6188/661
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://45.170.92.6:8080/icones/tnt.png" group-title="FILMES&SERIES",TNT
+http://a5telecom.distv.net:8080/6188/6188/662
+#EXTINF:-1 tvg-id="TNTSERIES" tvg-name="TNT SERIES" tvg-logo="http://45.170.92.6:8080/icones/tntseries.png" group-title="FILMES&SERIES",TNT SERIES
+http://a5telecom.distv.net:8080/6188/6188/663
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="http://45.170.92.6:8080/icones/tntsports.png" group-title="SPORTES",TNT SPORTS
+http://a5telecom.distv.net:8080/6188/6188/559
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="http://45.170.92.6:8080/icones/tntsports.png" group-title="SPORTES",TNT SPORTS 2
+http://a5telecom.distv.net:8080/6188/6188/560
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="http://45.170.92.6:8080/icones/tntsports.png" group-title="SPORTES",TNT SPORTS 3
+http://a5telecom.distv.net:8080/6188/6188/561
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4" tvg-logo="http://45.170.92.6:8080/icones/tntsports.png" group-title="SPORTES",TNT SPORTS 4
+http://a5telecom.distv.net:8080/6188/6188/562
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5" tvg-logo="http://45.170.92.6:8080/icones/tntsports.png" group-title="SPORTES",TNT SPORTS 5
+http://a5telecom.distv.net:8080/6188/6188/680
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="http://45.170.92.6:8080/icones/tooncast.png" group-title="KIDS",TOONCAST
+http://a5telecom.distv.net:8080/6188/6188/594
+#EXTINF:-1 tvg-id="TRAVELBOXBRAZIL" tvg-name="TRAVELBOX BRAZIL" tvg-logo="http://45.170.92.6:8080/icones/travelboxbrazil.png" group-title="ENTRETENIMENTO",TRAVELBOX BRAZIL
+http://a5telecom.distv.net:8080/6188/6188/673
+#EXTINF:-1 tvg-id="TRUTV" tvg-name="TRUETV" tvg-logo="http://45.170.92.6:8080/icones/trutv.png" group-title="ENTRETENIMENTO",TRUETV
+http://a5telecom.distv.net:8080/6188/6188/667
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="http://45.170.92.6:8080/icones/tvaparecida.png" group-title="PARABOLICA",TV APARECIDA
+http://a5telecom.distv.net:8080/6188/6188/425
+#EXTINF:-1 tvg-id="" tvg-name="TV ARAPUAN REDE TV" tvg-logo="http://45.170.92.6:8080/icones/tvarapuaredev.png" group-title="PARAIBA",TV ARAPUAN REDE TV
+http://a5telecom.distv.net:8080/6188/6188/369
+#EXTINF:-1 tvg-id="" tvg-name="TV ASA BRANCA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",TV ASA BRANCA
+http://a5telecom.distv.net:8080/6188/6188/471
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL 2" tvg-logo="http://45.170.92.6:8080/icones/tvbrasil.png" group-title="PARABOLICA",TV BRASIL 2
+http://a5telecom.distv.net:8080/6188/6188/447
+#EXTINF:-1 tvg-id="" tvg-name="TV CABO BRANCO GLOBO" tvg-logo="http://45.170.92.6:8080/icones/tvcabobranco.png" group-title="PARAIBA",TV CABO BRANCO GLOBO
+http://a5telecom.distv.net:8080/6188/6188/370
+#EXTINF:-1 tvg-id="" tvg-name="TV CAFE COM LEITE" tvg-logo="http://45.170.92.6:8080/icones/tvcafecomleite.png" group-title="CEARA",TV CAFE COM LEITE
+http://a5telecom.distv.net:8080/6188/6188/404
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA" tvg-logo="http://45.170.92.6:8080/icones/tvcamara.png" group-title="PARABOLICA",TV CAMARA
+http://a5telecom.distv.net:8080/6188/6188/347
+#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE" tvg-logo="http://45.170.92.6:8080/icones/tvcidade.png" group-title="CEARA",TV CIDADE
+http://a5telecom.distv.net:8080/6188/6188/403
+#EXTINF:-1 tvg-id="" tvg-name="TV CORREIO RECORD TV" tvg-logo="http://45.170.92.6:8080/icones/tvcorreio.png" group-title="PARAIBA",TV CORREIO RECORD TV
+http://a5telecom.distv.net:8080/6188/6188/372
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO" tvg-logo="http://45.170.92.6:8080/icones/tvdiario.png" group-title="CEARA",TV DIARIO
+http://a5telecom.distv.net:8080/6188/6188/395
+#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA" tvg-logo="http://45.170.92.6:8080/icones/tvescola.png" group-title="PARABOLICA",TV ESCOLA
+http://a5telecom.distv.net:8080/6188/6188/355
+#EXTINF:-1 tvg-id="" tvg-name="TV FUTURA" tvg-logo="http://45.170.92.6:8080/icones/futura.png" group-title="CEARA",TV FUTURA
+http://a5telecom.distv.net:8080/6188/6188/396
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA ALAGOAS" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",TV GAZETA ALAGOAS
+http://a5telecom.distv.net:8080/6188/6188/472
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA VITORIA ES" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",TV GAZETA VITORIA ES
+http://a5telecom.distv.net:8080/6188/6188/473
+#EXTINF:-1 tvg-id="" tvg-name="TV GUARARAPES" tvg-logo="http://45.170.92.6:8080/icones/tvguararapes.png" group-title="PERNAMBUCO",TV GUARARAPES
+http://a5telecom.distv.net:8080/6188/6188/356
+#EXTINF:-1 tvg-id="" tvg-name="TV JANGADEIRO" tvg-logo="http://45.170.92.6:8080/icones/tvjangadeiro.png" group-title="CEARA",TV JANGADEIRO
+http://a5telecom.distv.net:8080/6188/6188/405
+#EXTINF:-1 tvg-id="" tvg-name="TV JORNAL(SBT)" tvg-logo="http://45.170.92.6:8080/icones/tvjornal.png" group-title="PERNAMBUCO",TV JORNAL(SBT)
+http://a5telecom.distv.net:8080/6188/6188/344
+#EXTINF:-1 tvg-id="" tvg-name="TV MANAIRA BAND" tvg-logo="http://45.170.92.6:8080/icones/tvmanairaband.png" group-title="PARAIBA",TV MANAIRA BAND
+http://a5telecom.distv.net:8080/6188/6188/373
+#EXTINF:-1 tvg-id="" tvg-name="TV MIRAMAR TV CULTURA" tvg-logo="http://45.170.92.6:8080/icones/tvmiramar.png" group-title="PARAIBA",TV MIRAMAR TV CULTURA
+http://a5telecom.distv.net:8080/6188/6188/374
+#EXTINF:-1 tvg-id="" tvg-name="TV MORENA" tvg-logo="http://45.170.92.6:8080/icones/globotvmorena.png" group-title="GLOBOS&RECORD",TV MORENA
+http://a5telecom.distv.net:8080/6188/6188/474
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVA NORDESTE" tvg-logo="http://45.170.92.6:8080/icones/novanordeste.png" group-title="PERNAMBUCO",TV NOVA NORDESTE
+http://a5telecom.distv.net:8080/6188/6188/349
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="http://45.170.92.6:8080/icones/novotempo.png" group-title="PARABOLICA",TV NOVO TEMPO
+http://a5telecom.distv.net:8080/6188/6188/385
+#EXTINF:-1 tvg-id="TVRTIMBUM" tvg-name="TV RA TIM BUM" tvg-logo="http://45.170.92.6:8080/icones/tvratimbum.png" group-title="KIDS",TV RA TIM BUM
+http://a5telecom.distv.net:8080/6188/6188/595
+#EXTINF:-1 tvg-id="" tvg-name="TV SANTA CRUZ (GLOBO)" tvg-logo="http://45.170.92.6:8080/icones/tvsantacruz.png" group-title="PARABOLICA",TV SANTA CRUZ (GLOBO)
+http://a5telecom.distv.net:8080/6188/6188/457
+#EXTINF:-1 tvg-id="" tvg-name="TV SUBAE(GLOBO)" tvg-logo="http://45.170.92.6:8080/icones/redeglobobahia.png" group-title="PARABOLICA",TV SUBAE(GLOBO)
+http://a5telecom.distv.net:8080/6188/6188/458
+#EXTINF:-1 tvg-id="" tvg-name="TV TAMBAU SBT" tvg-logo="http://45.170.92.6:8080/icones/tvtambau.png" group-title="PARAIBA",TV TAMBAU SBT
+http://a5telecom.distv.net:8080/6188/6188/377
+#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA(BAND)" tvg-logo="http://45.170.92.6:8080/icones/tvtribuna.png" group-title="PERNAMBUCO",TV TRIBUNA(BAND)
+http://a5telecom.distv.net:8080/6188/6188/345
+#EXTINF:-1 tvg-id="" tvg-name="TV TROPICAL (RECORD TV)" tvg-logo="http://45.170.92.6:8080/icones/tvtropical.png" group-title="RIO-GRANDE-NORTE",TV TROPICAL (RECORD TV)
+http://a5telecom.distv.net:8080/6188/6188/386
+#EXTINF:-1 tvg-id="" tvg-name="TV UFPB TV BRASIL" tvg-logo="http://45.170.92.6:8080/icones/tvbrasil.png" group-title="PARAIBA",TV UFPB TV BRASIL
+http://a5telecom.distv.net:8080/6188/6188/378
+#EXTINF:-1 tvg-id="" tvg-name="TV VERDADE" tvg-logo="http://45.170.92.6:8080/icones/tvverdade.png" group-title="PARABOLICA",TV VERDADE
+http://a5telecom.distv.net:8080/6188/6188/426
+#EXTINF:-1 tvg-id="" tvg-name="TV VERDE MARES" tvg-logo="http://45.170.92.6:8080/icones/globotvverdesmares.png" group-title="CEARA",TV VERDE MARES
+http://a5telecom.distv.net:8080/6188/6188/407
+#EXTINF:-1 tvg-id="" tvg-name="TV VERDE VALE" tvg-logo="http://45.170.92.6:8080/icones/tvverdevale.png" group-title="CEARA",TV VERDE VALE
+http://a5telecom.distv.net:8080/6188/6188/406
+#EXTINF:-1 tvg-id="" tvg-name="TVPE ( TV BRASIL)" tvg-logo="http://45.170.92.6:8080/icones/tveducativa.png" group-title="PERNAMBUCO",TVPE ( TV BRASIL)
+http://a5telecom.distv.net:8080/6188/6188/353
+#EXTINF:-1 tvg-id="" tvg-name="TVU CEARA" tvg-logo="http://45.170.92.6:8080/icones/tvuniversitaria.png" group-title="CEARA",TVU CEARA
+http://a5telecom.distv.net:8080/6188/6188/401
+#EXTINF:-1 tvg-id="UNIVERSAL" tvg-name="UNIVERSAL TV" tvg-logo="http://45.170.92.6:8080/icones/universalchannel.png" group-title="FILMES&SERIES",UNIVERSAL TV
+http://a5telecom.distv.net:8080/6188/6188/664
+#EXTINF:-1 tvg-id="VH1MEGAHITSBRAZIL" tvg-name="VH1 MEGA HITS" tvg-logo="http://45.170.92.6:8080/icones/vh1megahits.png" group-title="ENTRETENIMENTO",VH1 MEGA HITS
+http://a5telecom.distv.net:8080/6188/6188/624
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="http://45.170.92.6:8080/icones/viva.png" group-title="ENTRETENIMENTO",VIVA
+http://a5telecom.distv.net:8080/6188/6188/625
+#EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER CHANNEL" tvg-logo="http://45.170.92.6:8080/icones/warnerchannel.png" group-title="FILMES&SERIES",WARNER CHANNEL
+http://a5telecom.distv.net:8080/6188/6188/665
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="http://45.170.92.6:8080/icones/woohoo.png" group-title="ENTRETENIMENTO",WOOHOO
+http://a5telecom.distv.net:8080/6188/6188/679
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO" tvg-logo="http://45.170.92.6:8080/icones/zoomoo.png" group-title="KIDS",ZOOMOO
+http://a5telecom.distv.net:8080/6188/6188/596
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT" tvg-logo="http://45.170.92.6:8080/icones/maisglobosat.png" group-title="ENTRETENIMENTO",MAIS GLOBOSAT
+http://a5telecom.distv.net:8080/6188/6188/628
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 5" tvg-logo="http://45.170.92.6:8080/icones/afazenda.png" group-title="AFAZENDA",FAZENDA CAM 5
+http://a5telecom.distv.net:8080/6188/6188/581
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 4" tvg-logo="http://45.170.92.6:8080/icones/afazenda.png" group-title="AFAZENDA",FAZENDA CAM 4
+http://a5telecom.distv.net:8080/6188/6188/580
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 3" tvg-logo="http://45.170.92.6:8080/icones/afazenda.png" group-title="AFAZENDA",FAZENDA CAM 3
+http://a5telecom.distv.net:8080/6188/6188/579
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 2" tvg-logo="http://45.170.92.6:8080/icones/afazenda.png" group-title="AFAZENDA",FAZENDA CAM 2
+http://a5telecom.distv.net:8080/6188/6188/578
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 1" tvg-logo="http://45.170.92.6:8080/icones/afazenda.png" group-title="AFAZENDA",FAZENDA CAM 1
+http://a5telecom.distv.net:8080/6188/6188/577
